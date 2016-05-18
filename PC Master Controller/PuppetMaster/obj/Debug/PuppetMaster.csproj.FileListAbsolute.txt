@@ -1,0 +1,32 @@
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\bin\Debug\Common.dll
+C:\Korisno\Eurobot\Remake\PuppetMaster\PuppetMaster\bin\Debug\Common.pdb
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\bin\Debug\Common.dll
+C:\Korisno\Eurobot\Remake\ETF39\PuppetMaster\bin\Debug\Common.pdb
+D:\Protokol Kretanje\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+D:\Protokol Kretanje\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe
+D:\Protokol Kretanje\ETF39\PuppetMaster\bin\Debug\PuppetMaster.pdb
+D:\Protokol Kretanje\ETF39\PuppetMaster\bin\Debug\Common.dll
+D:\Protokol Kretanje\ETF39\PuppetMaster\bin\Debug\Common.pdb
+D:\Protokol Kretanje\ETF39\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+D:\Protokol Kretanje\ETF39\PuppetMaster\obj\Debug\PuppetMaster.exe
+D:\Protokol Kretanje\ETF39\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Eurobot temp\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Eurobot temp\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Eurobot temp\ETF39\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Eurobot temp\ETF39\PuppetMaster\bin\Debug\Common.dll
+C:\Eurobot temp\ETF39\PuppetMaster\bin\Debug\Common.pdb
+C:\Eurobot temp\ETF39\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Eurobot temp\ETF39\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Eurobot temp\ETF39\PuppetMaster\obj\Debug\PuppetMaster.pdb

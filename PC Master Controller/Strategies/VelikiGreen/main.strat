@@ -1,0 +1,34 @@
+PARSER drziMehanizam.servo
+PARSER start.move
+
+PARSER spustiMehanizam.servo
+PARSER napred1.move
+PARSER digniRibe.servo
+PARSER napred2.move
+PARSER pustiRibe.servo
+PARSER nazad.move
+
+PARSER spustiMehanizam.servo
+PARSER napred1.move
+PARSER digniRibe.servo
+PARSER napred2.move
+PARSER pustiRibe.servo
+PARSER nazad.move
+
+PARSER spustiMehanizam.servo
+PARSER napred1.move
+PARSER digniRibe.servo
+PARSER napred2.move
+PARSER pustiRibe.servo
+PARSER nazad.move
+
+PARSER spustiMehanizam.servo
+PARSER napred1.move
+PARSER digniRibe.servo
+PARSER napred2.move
+PARSER pustiRibe.servo
+PARSER nazad.move
+
+//PARSER otvoriKisobran.servo
+
+IDLE

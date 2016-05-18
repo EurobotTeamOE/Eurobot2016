@@ -1,0 +1,24 @@
+C:\Korisno\Eurobot\Remake\ETF39\Testing\bin\Debug\Testing.exe.config
+C:\Korisno\Eurobot\Remake\ETF39\Testing\bin\Debug\Testing.exe
+C:\Korisno\Eurobot\Remake\ETF39\Testing\bin\Debug\Testing.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Testing\bin\Debug\Common.dll
+C:\Korisno\Eurobot\Remake\ETF39\Testing\bin\Debug\Common.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.Form1.resources
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.exe
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Testing\obj\Debug\Testing.Form2.resources
+C:\Eurobot temp\ETF39\Testing\bin\Debug\Testing.exe.config
+C:\Eurobot temp\ETF39\Testing\bin\Debug\Testing.exe
+C:\Eurobot temp\ETF39\Testing\bin\Debug\Testing.pdb
+C:\Eurobot temp\ETF39\Testing\bin\Debug\Common.dll
+C:\Eurobot temp\ETF39\Testing\bin\Debug\Common.pdb
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.Form1.resources
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.Form2.resources
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.exe
+C:\Eurobot temp\ETF39\Testing\obj\Debug\Testing.pdb

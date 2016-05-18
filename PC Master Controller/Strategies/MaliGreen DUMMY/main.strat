@@ -1,0 +1,11 @@
+PARSER movement.move
+PARSER pusherIzbaci.servo
+PARSER guraj.move
+PARSER pusherVrati.servo
+PARSER idiPoKocke.move
+PARSER spremiHvatac.servo
+PARSER pridjiKockama.move
+PARSER uhvatiKocke.servo
+PARSER vuciKocke.move
+PARSER spremiHvatac.servo
+PARSER skloniSe.move

@@ -1,0 +1,13 @@
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\DualRobotControl.exe.config
+C:\Eurobot temp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.exe
+C:\Eurobot temp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.pdb
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\DualRobotControl.exe
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\DualRobotControl.pdb
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\Common.dll
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\PuppetMaster.exe
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\Common.pdb
+C:\Eurobot temp\ETF39\DualRobotControl\bin\Debug\PuppetMaster.pdb
+C:\Eurobot temp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.csprojResolveAssemblyReference.cache
+C:\Eurobot temp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.Form1.resources
+C:\Eurobot temp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.Properties.Resources.resources
+C:\Eurobot temp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.csproj.GenerateResource.Cache

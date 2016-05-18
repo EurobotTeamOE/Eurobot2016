@@ -1,0 +1,52 @@
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\Launcher.exe.config
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\Launcher.exe
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\Launcher.pdb
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\obj\Debug\Launcher.exe
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\obj\Debug\Launcher.pdb
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\Common.dll
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\PuppetMaster.exe
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\Common.pdb
+C:\Korisno\Eurobot\Remake\PuppetMaster\Launcher\bin\Debug\PuppetMaster.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\Launcher.exe.config
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\obj\Debug\Launcher.exe
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\obj\Debug\Launcher.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\Launcher.exe
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\Launcher.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\Common.dll
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\PuppetMaster.exe
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\Common.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\bin\Debug\PuppetMaster.pdb
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Korisno\Eurobot\Remake\ETF39\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\Launcher.exe.config
+D:\Protokol Kretanje\ETF39\Launcher\obj\Debug\Launcher.exe
+D:\Protokol Kretanje\ETF39\Launcher\obj\Debug\Launcher.pdb
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\Launcher.exe
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\Launcher.pdb
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\Common.dll
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\PuppetMaster.exe
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\Common.pdb
+D:\Protokol Kretanje\ETF39\Launcher\bin\Debug\PuppetMaster.pdb
+D:\Protokol Kretanje\ETF39\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+D:\Protokol Kretanje\ETF39\Launcher\obj\Debug\Launcher.Form1.resources
+D:\Protokol Kretanje\ETF39\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Protokol Kretanje\ETF39\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\Launcher.exe.config
+C:\Eurobot temp\ETF39\Launcher\obj\Debug\Launcher.exe
+C:\Eurobot temp\ETF39\Launcher\obj\Debug\Launcher.pdb
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\Launcher.exe
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\Launcher.pdb
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\Common.dll
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\PuppetMaster.exe
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\Common.pdb
+C:\Eurobot temp\ETF39\Launcher\bin\Debug\PuppetMaster.pdb
+C:\Eurobot temp\ETF39\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Eurobot temp\ETF39\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Eurobot temp\ETF39\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Eurobot temp\ETF39\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
