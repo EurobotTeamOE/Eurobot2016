@@ -1,0 +1,13 @@
+Need to be implemented:
+-----------------------
+
+1)	Merenje struje oba pogonska motora(odvojeno).
+2)	Prikazivanje stanja baterije.
+3)	Stanje svih osigurača.
+4)	Stanje svih ultrazvučnih senzora.
+5)	Merenje struje ploče sa aktuatorima.
+6)	Iscrtavanje trenutne pozicije robota. Preko panela koji izgleda identično kao po specifikacijama terena(misli se na boju i dimenzije).
+7) 	Ispisivanje trenutnog stanja svih aktuatora(pulse 0-1000).
+8)	Ispisivanje koja smo trenutno boja i ostavljeno mesto za biranje strategije i povezivanje na COM port(integracija ovoga sa Stevanovim delom).
+
+***	Dodati komande za podešavanje PID konstanti.

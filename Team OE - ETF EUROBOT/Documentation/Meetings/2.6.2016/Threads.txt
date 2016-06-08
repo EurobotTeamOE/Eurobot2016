@@ -1,0 +1,56 @@
+
+*********
+THREAD 1: 
+Who:			[Nemanja]
+Description: 	Instrument tabla HW
+	- Integrisati RS485
+	- Integrisati 2xUART
+	- Nacrtati schematic,PCB.
+	- Napajanje
+	- Galvansko razdvajanje
+-------------------------------------------------
+
+*********	
+THREAD 2: 
+Who:			[Bobo]
+Description:	Servisna aplikacija SW
+-------------------------------------------------
+
+*********
+THREAD 3:
+Who:			[Dare i Nemanja]
+Description:	Novi pogonski motori za robota.
+-------------------------------------------------
+
+*********
+THREAD 4:
+Who:			[Nemanja]
+Description:	Kupovina novog robota
+-------------------------------------------------
+
+*********
+THREAD 5:
+Who:			[Nemanja,Dare,Bobo,Srđan]
+Description:	Organizovati sve projekte na GIT
+-------------------------------------------------
+
+*********
+THREAD 6: 
+Who:			[Bobo]
+Description:	MPU9150(box:gyro,acc)
+-------------------------------------------------
+
+*********
+THREAD 7: 
+Who:			[Team OE]
+Description:	Unnapređenje HW na robotu.
+	- Kabliranje(eth za magistralu)
+	- Enkoderi(apsolutni)
+	- Senzori(acc,gyro)
+-------------------------------------------------
+
+*********	
+THREAD 8: 
+Who:			[Nemanja i Bobo]
+Description:	Revizija svih HW ploča.
+-------------------------------------------------
